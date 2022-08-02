@@ -1,3 +1,2 @@
 # ansible-projects
-Ansible projects
-Simple ansible playbooks
+Simple Ansible projects
